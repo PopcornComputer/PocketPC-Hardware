@@ -2,7 +2,7 @@
 Hardware Design Files for Pocket P.C. by Popcorn Computer
 
 ### Important Note:
-These files were put into production on August 4th, 2020 and are untested.
+These files were put into production on January 25th, 2021 and are untested.
 An upcoming production run will validate these files. This README file and repository will be updated to reflect the test results and suitability for future productions.
 
 OrCAD Design Files, Assembly and PCB Fabrication files will be released once Pocket P.C. starts shipping.
